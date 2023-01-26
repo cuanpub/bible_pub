@@ -1,0 +1,16 @@
+<div>English</div>
+<audio controls>
+  <source src="http://audio2.abiblica.org/bibles/app/audio/1/23/26.mp3" type="audio/mpeg">
+</audio>
+<br><br>
+
+<div>普通话</div>
+<audio controls>
+  <source src="http://audio2.abiblica.org/bibles/app/audio/4/23/26.mp3" type="audio/mpeg">
+</audio>
+<br><br>
+
+<div>廣東話</div>
+<audio controls>
+  <source src="http://audio2.abiblica.org/bibles/app/audio/13/23/26.mp3" type="audio/mpeg">
+</audio>
